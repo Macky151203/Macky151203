@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a FullStack and Ai related Projects<br>👯 I’m looking to collaborate on Full Stack and Ai based Projects<br>🌱 I’m currently learning about integrating Ai features into applications.<br>💬 Ask me about anything<br>
+🔭 I’m currently working on FullStack and Ai related Projects<br>🤝 I’m looking to collaborate on Full Stack and Ai based Projects<br>🌱 I’m currently learning about integrating Ai features into applications.<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
